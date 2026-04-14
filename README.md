@@ -36,7 +36,3 @@ A full-stack application to manage projects and tasks with filtering, sorting, a
 cd backend
 npm install
 npm run dev
-
-![alt text](image.png)
-
-![alt text](image-1.png)
